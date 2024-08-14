@@ -286,7 +286,7 @@ a {
   margin-right: 15px;
 }
 
-.hero .stats strong :nth-child(2) {
+.hero .stats strong:nth-child(2) {
   margin-left: 28px;
 }
 
